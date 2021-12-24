@@ -4,12 +4,12 @@ I am Manzoor, currently pursuing Master's in Data Analytics at Carnegie Mellon U
 
 #### So far, I have learnt how to:
 
-* Derive meaning from data to tell compelling stories -> Check out my data visualization portfolio [here](https://github.com/mhmirza/DataViz/blob/main/README.md)!
-* Use decision analytics to facilitate preemptive and optimal decision making -> Check out my optimization portfolio [here](https://github.com/mhmirza/Optimization/blob/main/README.md)!
-* Use machine learning algorithms on big data to draw underlying insights -> Check out my big data portfolio [here](https://github.com/mhmirza/BigData/blob/main/README.md)!
-* Design research experiments to answer causal questions of interest -> Check out my A/B testing portfolio [here](https://github.com/mhmirza/ABTesting/blob/main/README.md)!
-* Discover structure in data and make predictions to solve complex business problems -> Check out my Data Mining portfolio [here](https://github.com/mhmirza/DataMining/blob/main/README.md)!
-* Write programs for web-based applications that could improve interactions with customers -> Check out my Python portfolio [here](https://github.com/mhmirza/PythonProgramming/blob/main/README.md)!
-* Discern patterns in data that could help furnish key policies -> Check out my R portfolio [here](https://github.com/mhmirza/RAnalytics/blob/main/README.md)!
+* Derive meaning from data to tell compelling stories -> Check out my data visualization portfolio [here](https://mhmirza.github.io/DataViz/)!
+* Use decision analytics to facilitate preemptive and optimal decision making -> Check out my optimization portfolio [here](https://mhmirza.github.io/Optimization/)!
+* Use machine learning algorithms on big data to draw underlying insights -> Check out my big data portfolio [here](https://mhmirza.github.io/BigData/)!
+* Design research experiments to answer causal questions of interest -> Check out my A/B testing portfolio [here](https://mhmirza.github.io/ABTesting/)!
+* Discover structure in data and make predictions to solve complex business problems -> Check out my Data Mining portfolio [here](https://mhmirza.github.io/DataMining/)!
+* Write programs for web-based applications that could improve interactions with customers -> Check out my Python portfolio [here](https://mhmirza.github.io/PythonProgramming/)!
+* Discern patterns in data that could help furnish key policies -> Check out my R portfolio [here](https://mhmirza.github.io/RAnalytics/)!
 
 ...But there is still a long way for me to go so please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/manzoorhassanmirza/) if you have any comments/ suggestions regarding my portfolio or would like to share your experience in Data Analytics!
