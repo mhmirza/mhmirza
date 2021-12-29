@@ -12,4 +12,4 @@ I am Manzoor, currently pursuing Master's in Data Analytics at Carnegie Mellon U
 * Write programs for web-based applications that could improve interactions with customers -> Check out my Python portfolio [here](https://mhmirza.github.io/PythonProgramming/)!
 * Discern patterns in data that could help furnish key policies -> Check out my R portfolio [here](https://mhmirza.github.io/RAnalytics/)!
 
-...But there is still a long way for me to go so please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/manzoorhassanmirza/) if you have any comments/ suggestions regarding my portfolio or would like to share your experience in Data Analytics!
+Please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/manzoorhassanmirza/) if you have any comments/ suggestions regarding my portfolio or would like to share your experience in Data Analytics.
