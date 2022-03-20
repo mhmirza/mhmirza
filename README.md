@@ -8,7 +8,7 @@ I am Manzoor, currently pursuing Master's in Data Analytics at Carnegie Mellon U
 
 * Use decision analytics to facilitate preemptive and optimal decision making: Check out my Optimization portfolio [here](https://mhmirza.github.io/Optimization/)!
 
-* Use machine learning algorithms on big data to draw underlying insights: Check out my Big Data portfolio [here](https://mhmirza.github.io/BigData/)!
+* Use machine learning algorithms on big data to draw current & future business insights: Check out my Big Data portfolio [here](https://mhmirza.github.io/BigData/)!
 
 * Design research experiments to answer causal questions of interest: Check out my A/B testing portfolio [here](https://mhmirza.github.io/ABTesting/)!
 
@@ -16,7 +16,7 @@ I am Manzoor, currently pursuing Master's in Data Analytics at Carnegie Mellon U
 
 * Write programs for web-based applications that could improve interactions with customers: Check out my Advanced Python portfolio [here](https://mhmirza.github.io/PythonProgramming/)!
 
-* Discern patterns in data that could help furnish key policies: Check out my R Programming portfolio [here](https://mhmirza.github.io/RAnalytics/)!
+* Discern patterns in data that could help furnish policy making: Check out my R Programming portfolio [here](https://mhmirza.github.io/RAnalytics/)!
 
 * Use advanced techniques to explore data for outliers, variables' distribution and interactions: Check out my Descriptive Dnalytics portfolio [here](https://mhmirza.github.io/DescriptiveAnalytics/)!
 
