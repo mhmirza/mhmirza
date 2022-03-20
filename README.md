@@ -18,6 +18,6 @@ I am Manzoor, currently pursuing Master's in Data Analytics at Carnegie Mellon U
 
 * Use statistical analysis and modeling to uncover and address key policy issues: Check out my R Programming portfolio [here](https://mhmirza.github.io/RAnalytics/)!
 
-* Use advanced visualization techniques to discern underlying trends in data: Check out my Descriptive Dnalytics portfolio [here](https://mhmirza.github.io/DescriptiveAnalytics/)!
+* Use advanced visualization techniques to discern underlying trends in data: Check out my Descriptive Analytics portfolio [here](https://mhmirza.github.io/DescriptiveAnalytics/)!
 
 Please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/manzoorhassanmirza/) if you have any comments/ suggestions regarding my portfolio or would like to share your experience in Data Analytics.
