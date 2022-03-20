@@ -1,5 +1,3 @@
-# Welcome!  
-
 ![123](https://user-images.githubusercontent.com/93225948/159189980-f66aad3c-1321-4ce8-8944-45b7f8bc5216.jpg)
 
 I am Manzoor, currently pursuing Master's in Data Analytics at Carnegie Mellon University. Prior to joining graduate school, I was working with GlaxoSmithKline Pakistan Limited based out of Karachi, Pakistan. My work there primarily involved customer insights, which helped me develop a profound interest in how data could be used to facilitate commercial decision making. My time at Carnegie Mellon University has allowed me to delve deeper into this interest and enabled me to understand the role of analytics in business and policy. 
