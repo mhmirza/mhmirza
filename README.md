@@ -13,5 +13,3 @@ I am Manzoor, currently pursuing Master's in Data Analytics at Carnegie Mellon U
 * Discern patterns in data that could help furnish key policies -> Check out my R portfolio [here](https://mhmirza.github.io/RAnalytics/)!
 
 Please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/manzoorhassanmirza/) if you have any comments/ suggestions regarding my portfolio or would like to share your experience in Data Analytics.
-
-#HELLP
