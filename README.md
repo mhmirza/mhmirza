@@ -1,7 +1,7 @@
 ### GitHub Website  
 
 I am Manzoor, currently pursuing Master's in Data Analytics at Carnegie Mellon University. Prior to joining graduate school, I was working with GlaxoSmithKline Pakistan Limited based out of Karachi, Pakistan. My work there primarily involved customer insights, which helped me develop a profound interest in how data could be used to facilitate commercial decision making. My time at Carnegie Mellon University has allowed me to delve deeper into this interest and enabled me to understand the role of analytics in business and policy. 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxx
+
 #### So far, I have learnt how to:
 
 * Derive meaning from data to tell compelling stories -> Check out my data visualization portfolio [here](https://mhmirza.github.io/DataViz/)!
