@@ -14,7 +14,7 @@ I am Manzoor, currently pursuing Master's in Data Analytics at Carnegie Mellon U
 
 * Discover structure in data and make predictions to solve complex business problems: Check out my Data Mining portfolio **[here](https://mhmirza.github.io/DataMining/)**!
 
-* Write programs for web-based applications that could help improve interactions with customers: Check out my Advanced Python portfolio **[here](https://mhmirza.github.io/PythonProgramming/)**!
+* Write programs for web-based applications that could help improve interactions with customers: Check out my Python portfolio **[here](https://mhmirza.github.io/PythonProgramming/)**!
 
 * Use statistical analysis and modeling to uncover and address key policy issues: Check out my R Programming portfolio **[here](https://mhmirza.github.io/RAnalytics/)**!
 
