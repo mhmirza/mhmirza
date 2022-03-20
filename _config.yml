@@ -2,5 +2,6 @@ theme: jekyll-theme-cayman
 
 github:
   is_project_page: false
-  
-title-heading: false
+
+name: GitHub Website
+title: null
