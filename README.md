@@ -4,7 +4,7 @@ I am Manzoor, currently pursuing Master's in Data Analytics at Carnegie Mellon U
 
 ## So far, I have learnt how to:
 
-* Derive meaning from data to tell compelling stories: Check out my Data Visualization portfolio [here](https://mhmirza.github.io/DataViz/)!
+* Derive meaning from data to furnish compelling narratives: Check out my Data Visualization portfolio [here](https://mhmirza.github.io/DataViz/)!
 
 * Use decision analytics to facilitate preemptive and optimal decision making: Check out my Optimization portfolio [here](https://mhmirza.github.io/Optimization/)!
 
@@ -14,11 +14,10 @@ I am Manzoor, currently pursuing Master's in Data Analytics at Carnegie Mellon U
 
 * Discover structure in data and make predictions to solve complex business problems: Check out my Data Mining portfolio [here](https://mhmirza.github.io/DataMining/)!
 
-* Write programs for web-based applications that could improve interactions with customers: Check out my Advanced Python portfolio [here](https://mhmirza.github.io/PythonProgramming/)!
+* Write programs for web-based applications that could help improve interactions with customers: Check out my Advanced Python portfolio [here](https://mhmirza.github.io/PythonProgramming/)!
 
-* Discern patterns in data that could help furnish policy making: Check out my R Programming portfolio [here](https://mhmirza.github.io/RAnalytics/)!
+* Use statistical analysis and modeling to uncover and address key policy issues: Check out my R Programming portfolio [here](https://mhmirza.github.io/RAnalytics/)!
 
-* Use advanced techniques to explore data for outliers, variables' distribution and interactions: Check out my Descriptive Dnalytics portfolio [here](https://mhmirza.github.io/DescriptiveAnalytics/)!
-
+* Use advanced visualization techniques to discern underlying trends in data: Check out my Descriptive Dnalytics portfolio [here](https://mhmirza.github.io/DescriptiveAnalytics/)!
 
 Please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/manzoorhassanmirza/) if you have any comments/ suggestions regarding my portfolio or would like to share your experience in Data Analytics.
