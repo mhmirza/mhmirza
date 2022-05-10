@@ -6,6 +6,8 @@ Hi, I am Manzoor! I have recently graduated with a Master's degree in Data Analy
 
 * Derive meaning from data to furnish compelling narratives: check out my Data Visualization portfolio **[here](https://mhmirza.github.io/DataViz/)**!
 
+* Use natural language processing to identify structure in images, text, video and audio files: check out my Unstructured Data Analytics portfolio **[here](https://mhmirza.github.io/UnstructuredDataAnalytics/)**!
+
 * Use decision analytics to facilitate preemptive and optimal decision making: check out my Optimization portfolio **[here](https://mhmirza.github.io/Optimization/)**!
 
 * Use machine learning algorithms on big data to draw current & future business insights: check out my Big Data portfolio **[here](https://mhmirza.github.io/BigData/)**!
